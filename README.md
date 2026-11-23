@@ -1,4 +1,4 @@
-# 🏟Sports Management Application
+# Sports Management Application
 
 A **mobile-first sports management platform** designed to simplify sports venue booking, team formation, and event participation in Nepal.  
 This project addresses the inefficiencies of the current manual system, offering a localized and modern solution for both **players** and **venue managers**.
@@ -56,7 +56,7 @@ The project follows an **Iterative Development Model**, with multiple cycles of 
 
 ---
 
-## 👩‍💻 Authors
+## Authors
 - **Soniya Khadka**  
 - **Romita Dangol**  
 - **Rakshya Shrestha**
