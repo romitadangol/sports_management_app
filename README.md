@@ -61,7 +61,7 @@ The project follows an **Iterative Development Model**, with multiple cycles of 
 The following documents provide detailed insights into the project's research, design, development process, and final presentation.
 
 - 📄 **Final Year Thesis Paper:** [View Thesis PDF](./Sports_Management_System_Final_Thesis.pdf)
-- 📊 **Final Project Presentation:** [View Presentation PDF](./YOUR_PRESENTATION_FILENAME.pdf)
+- 📊 **Final Project Presentation:** [View Presentation PDF](./Sports_Management_System_Presentation.pdf)
 
 ---
 
